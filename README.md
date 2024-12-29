@@ -1,6 +1,6 @@
 # Backpropagation Digit Classification Neural Network
 
-This project implements a simple neural network for digit classification using backpropagation. It is designed to be trained from the MNIST dataset. The project is implemented in C++ using the Eigen library for matrix operations.
+This project implements a simple neural network for digit classification using backpropagation. It is designed to be trained from the MNIST dataset. The project is implemented in C++ using the Eigen library for matrix operations. The development of this project was inspired by the book ["Neural Networks and Deep Learning"](https://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 
 ## Features
 
